@@ -19,7 +19,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/adabms-project.git
+git clone https://github.com/pratik0104/adabms-project.git
 Navigate to the project directory:
 
 bash
